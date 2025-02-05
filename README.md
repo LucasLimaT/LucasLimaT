@@ -3,15 +3,15 @@
   <a href="https://github.com/LucasLimaT">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
-      <img alt="GitHub" title="GitHub" height="15" width="15" src="https://cdn.simpleicons.org/github"></picture></a>
+      <img alt="GitHub" title="GitHub" height="20" width="20" src="https://cdn.simpleicons.org/github"></picture></a>
   <a href="https://www.instagram.com/taveiralima">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/instagram/white">
-      <img alt="Instagram" title="Instagram" height="15" width="15" src="https://cdn.simpleicons.org/instagram"></picture></a>
+      <img alt="Instagram" title="Instagram" height="20" width="20" src="https://cdn.simpleicons.org/instagram"></picture></a>
   <a href="https://www.linkedin.com/in/lucas-taveira-de-lima">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/white">
-      <img alt="LinkedIn" title="LinkedIn" height="15" width="15" src="https://cdn.simpleicons.org/linkedin"></a>
+      <img alt="LinkedIn" title="LinkedIn" height="20" width="20" src="https://cdn.simpleicons.org/linkedin"></a>
 </p>
 
 
