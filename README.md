@@ -22,13 +22,11 @@
 &nbsp;🎈&nbsp;&nbsp;|&ensp;***21 anos***
 
 
-
-
 ## 📈 Estatísticas do GitHub
 <div>
 <a href="https://github.com/LucasLimaT">
-<img loading="lazy" height=165em" src="https://github-readme-stats.vercel.app/api?username=LucasLimaT&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=fff"/>
-<img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLimaT&langs_count=3&theme=dark"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasLimaT&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&icon_color=fff" alt="Lucas Taveira" /> 
+<img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLimaT&langs_count=4&hide_border=true&theme=dark&bg_color=0d1117"/>
 </div>
   
 ## 🛠️ Principais Conhecimentos
