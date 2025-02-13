@@ -25,8 +25,8 @@
 ## 📈 Estatísticas do GitHub
 <div>
 <a href="https://github.com/LucasLimaT">
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasLimaT&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&icon_color=fff" alt="Lucas Taveira" /> 
-<img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLimaT&langs_count=4&hide_border=true&theme=dark&bg_color=0d1117"/>
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucasLimaT&show_icons=true&hide_border=true&theme=dark&bg_color=0d1117&icon_color=fff&include_all_commits=true" alt="Lucas Taveira" /> 
+<img loading="lazy" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasLimaT&langs_count=4&hide_border=true&theme=dark&bg_color=0d1117&include_all_commits=true"/>
 </div>
   
 ## 🛠️ Principais Conhecimentos
