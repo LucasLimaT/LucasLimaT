@@ -31,6 +31,6 @@
 ## 🛠️ Principais Conhecimentos
 <p align="center">
   <a href="https://github.com/LucasLimaT">
-    <img src="https://skillicons.dev/icons?i=c,py,java,mysql,postgres,fastapi,django,git,github,docker,arduino&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,py,java,mysql,postgres,fastapi,django,git,github,docker,powerbi,arduino&theme=dark" />
   </a>
 </p>
