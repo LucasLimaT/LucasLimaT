@@ -19,7 +19,7 @@
 📖&nbsp;&nbsp;|&ensp;***Estudante de Engenharia da Computação***<br>
  &nbsp;♟&nbsp;&nbsp;|&ensp;***Back-end developer***<br>
  &nbsp;📍&nbsp;&nbsp;&nbsp;|&ensp;***Santo Antônio do Leverger, Brasil***<br>
-&nbsp;🎈&nbsp;&nbsp;|&ensp;***21 anos***
+&nbsp;🎈&nbsp;&nbsp;|&ensp;***22 anos***
 
 
 ## 📈 Estatísticas do GitHub
