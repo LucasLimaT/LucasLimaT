@@ -34,3 +34,7 @@
     <img src="https://skillicons.dev/icons?i=c,py,java,mysql,postgres,hibernate,maven,fastapi,django,git,github,docker,postman,arduino&theme=dark" />
   </a>
 </p>
+
+## 🛩 Contribuições
+
+![GitHub Space Shooter](gh-space-shooter.webp)
