@@ -21,7 +21,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Workbench&size=17&letterSpacing=2px&duration=1&color=00E739F8&vCenter=true&center=true&background=02120900&repeat=false&width=200&height=20&lines=Contact)](https://git.io/typing-svg)
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E739)](https://linkedin.com/in/lucastaveiradelima)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/lucastaveiradelima)
 [![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00E739)](mailto:lucastaveira.lima@gmail.com)
 
 </div>
