@@ -11,7 +11,7 @@
 ## 🛠️ Principais Conhecimentos
 <p align="center">
   <a href="https://github.com/LucasLimaT">
-    <img src="https://skillicons.dev/icons?i=c,py,java,mysql,postgres,hibernate,maven,fastapi,django,git,github,docker,postman,arduino&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,javascript,swift,postgres,firebase,fastapi,express,react,git,docker,postman,arduino&theme=dark" />
   </a>
 </p>
 
