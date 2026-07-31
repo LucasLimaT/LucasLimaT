@@ -6,6 +6,10 @@
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LucasLimaT&show_icons=true&hide_rank=true&hide_title=true&theme=dark&bg_color=02120900&title_color=00E739&icon_color=00E739&text_color=00E739&border_color=00E739&hide_border=true&include_all_commits=true&disable_animations=true&theme=dark)
 ![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LucasLimaT&layout=normal&bg_color=02120900&title_color=00E739&text_color=00E739&border_color=00E739&hide_border=true&hide_title=true&langs_count=3&hide_values=true&disable_animations=true&theme=dark&stats_format=bytes&hide=CSS,HTML)
 
+[![Projeto 1](https://github-stats-extended.vercel.app/api/pin/?username=LucasLimaT&repo=NOME_DO_REPO_1&theme=dark&bg_color=000000&title_color=00E739&text_color=00E739&icon_color=00E739&border_color=00E739&hide_border=false)](https://github.com/LucasLimaT/AmperMath)
+[![Projeto 2](https://github-stats-extended.vercel.app/api/pin/?username=LucasLimaT&repo=NOME_DO_REPO_2&theme=dark&bg_color=000000&title_color=00E739&text_color=00E739&icon_color=00E739&border_color=00E739&hide_border=false)](https://github.com/LucasLimaT/PitStopManager)
+[![Projeto 3](https://github-stats-extended.vercel.app/api/pin/?username=LucasLimaT&repo=petsos-api&theme=dark&bg_color=000000&title_color=00E739&text_color=00E739&icon_color=00E739&border_color=00E739&hide_border=false)](https://github.com/DiogoAug16/petsos-api)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Workbench&size=17&letterSpacing=2px&duration=1&vCenter=true&center=true&color=00E739F8&background=02120900&repeat=false&width=200&height=20&lines=Knowledge)](https://git.io/typing-svg)
 
 [![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00E739)](https://www.python.org/)
