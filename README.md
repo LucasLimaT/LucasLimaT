@@ -9,19 +9,19 @@
 ![GitHub Space Shooter](gh-space-shooter.webp)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Workbench&size=17&letterSpacing=2px&duration=1&vCenter=true&center=true&color=00E739F8&background=02120900&repeat=false&width=200&height=20&lines=Knowledge)](https://git.io/typing-svg)
 
-![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00E739)
+[![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=00E739)](https://www.python.org/)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00E739)
-![Swift](https://img.shields.io/badge/-Swift-000000?style=for-the-badge&logo=swift&logoColor=00E739)
-![React Native](https://img.shields.io/badge/-React_Native-000000?style=for-the-badge&logo=react&logoColor=00E739)
+[![Swift](https://img.shields.io/badge/-Swift-000000?style=for-the-badge&logo=swift&logoColor=00E739)](https://www.swift.org/)
+[![React Native](https://img.shields.io/badge/-React_Native-000000?style=for-the-badge&logo=react&logoColor=00E739)](https://reactnative.dev/)
 
-![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00E739)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00E739)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00E739)
-![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=00E739)
+[![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00E739)](https://fastapi.tiangolo.com/)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=00E739)](https://postgresql.org)
+[![Firebase](https://img.shields.io/badge/-Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00E739)](https://firebase.google.com)
+[![Docker](https://img.shields.io/badge/-Docker-000000?style=for-the-badge&logo=docker&logoColor=00E739)](https://www.docker.com/)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Workbench&size=17&letterSpacing=2px&duration=1&color=00E739F8&vCenter=true&center=true&background=02120900&repeat=false&width=200&height=20&lines=Contact)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucastaveiradelima)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00E739)](https://linkedin.com/in/lucastaveiradelima)
 [![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00E739)](mailto:lucastaveira.lima@gmail.com)
 
 </div>
