@@ -28,6 +28,6 @@
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin-white&logoColor=00E739)](https://linkedin.com/in/lucastaveiradelima)
 [![Gmail](https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00E739)](mailto:lucastaveira.lima@gmail.com)
 
-![GitHub Space Shooter](gh-space-shooter.webp)
+[![GitHub Space Shooter](gh-space-shooter.webp)](https://github.com/LucasLimaT/readme-retro-space/tree/main/gh-space-shooter)
 
 </div>
