@@ -6,7 +6,8 @@
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=LucasLimaT&show_icons=true&hide_rank=true&hide_title=true&theme=dark&bg_color=02120900&title_color=00E739&text_color=00E739&border_color=00E739&hide_border=true&include_all_commits=true&disable_animations=true&theme=dark)
 ![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=LucasLimaT&layout=normal&bg_color=02120900&title_color=00E739&text_color=00E739&border_color=00E739&hide_border=true&hide_title=true&langs_count=3&hide_values=true&disable_animations=true&theme=dark&stats_format=bytes&hide=CSS,HTML)
 
-[![Projeto_1](https://github-stats-extended.vercel.app/api/pin/?username=LucasLimaT&repo=LucasLimaT%2FAmperMath&theme=dark&description_lines_count=1&bg_color=000000&title_color=00E739&text_color=00E739&icon_color=00E739&border_color=00E739&hide_border=false)](https://github.com/LucasLimaT/AmperMath)
+
+[![Projeto 1](https://github-stats-extended.vercel.app/api/pin/?username=LucasLimaT&repo=LucasLimaT%2FAmperMath&theme=dark&description_lines_count=1&bg_color=000000&title_color=00E739&text_color=00E739&icon_color=00E739&border_color=00E739&hide_border=false)](https://github.com/LucasLimaT/AmperMath)
 
 [![Projeto 2](https://github-stats-extended.vercel.app/api/pin/?username=LucasLimaT&repo=LucasLimaT%2FPitStopManager&theme=dark&bg_color=000000&title_color=00E739&text_color=00E739&icon_color=00E739&border_color=00E739&hide_border=false)](https://github.com/LucasLimaT/PitStopManager)
 
